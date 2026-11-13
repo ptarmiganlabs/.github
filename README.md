@@ -10,6 +10,7 @@ their file browsers or clones.
 | File | Used by |
 | --- | --- |
 | [pull_request_template.md](pull_request_template.md) | Every repository without a pull request template of its own. |
+| [FUNDING.yml](FUNDING.yml) | The Sponsor button, leading to [GitHub Sponsors](https://github.com/sponsors/ptarmiganlabs), on every repository without a `FUNDING.yml` of its own. A repository shows it only once *Settings → General → Features → Sponsorships* is ticked. |
 
 ## Overriding the default in one repository
 
